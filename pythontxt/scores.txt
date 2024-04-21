@@ -1,0 +1,5 @@
+kor:85
+eng:90
+mat:92
+sic:79
+his:82
